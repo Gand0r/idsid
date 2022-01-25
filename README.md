@@ -1,2 +1,0 @@
-# EDP
-LOKASI MODEM
