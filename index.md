@@ -1,4 +1,4 @@
-### Update Modem Cadangan
+>Update Modem Cadangan
 
 
 | POSISI | JUMLAH | KETERANGAN                                      |
@@ -10,8 +10,3 @@
 | YOGA   | 1      |                                                 |
 | MIKAEL | 1      |                                                 |
 | TPLI   | 1      |                                                 |
-
-
-
-
->Chat ke [Whatsapp](https://wa.me/62089623367893)
