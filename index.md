@@ -14,4 +14,4 @@
 
 
 
-[MasBro](https://gand0r.github.io/MasBro/)
+>Chat ke [Whatsapp](https://wa.me/62089623367893)
