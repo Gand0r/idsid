@@ -1,1 +1,6 @@
 theme: jekyll-theme-time-machine
+
+
+layout: page
+title: "about"
+permalink: /https://gand0r.github.io/MasBro/about.md
