@@ -2,7 +2,7 @@
 
 | POSISI | JUMLAH | KETERANGAN |
 | --- | --- | --- |
-| TLGL | 1 |  |
+| TLGM | 1 |  |
 | KANTOR | 2 | 1 Set lengkap, 1 Set kurang adaptor & kabel lan |
 | NAHRUL | 1 | |
 | NATAN | 1 | |
