@@ -1,6 +1,6 @@
 
-
-```| POSISI | JUMLAH | KETERANGAN |
+```
+| POSISI | JUMLAH | KETERANGAN |
 | --- | --- | --- |
 | TLGM | 1 |  |
 | KANTOR | 2 | 1 Set lengkap, 1 Set kurang adaptor & kabel lan |
@@ -8,4 +8,5 @@
 | NATAN | 1 | |
 | YOGA | 1 | |
 | MIKAEL | 1 | |
-| TPLI | 1 | Peruntukan MS |```
+| TPLI | 1 | Peruntukan MS |
+```
