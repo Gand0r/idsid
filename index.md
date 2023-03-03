@@ -12,8 +12,8 @@
 ```
 
 <link rel="stylesheet" href="/aset/styles.css">
-
-<script src="/js/myScript.js"></script>
+<script src="/js/myScript.js">
+</script>
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
 
