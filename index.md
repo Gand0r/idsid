@@ -1,21 +1,8 @@
-
-```
-| POSISI | JUMLAH | KETERANGAN |
-| --- | --- | --- |
-| TLGM | 1 |  |
-| KANTOR | 2 | 1 Set lengkap, 1 Set kurang adaptor & kabel lan |
-| NAHRUL | 1 | |
-| NATAN | 1 | |
-| YOGA | 1 | |
-| MIKAEL | 1 | |
-| TPLI | 1 | Peruntukan MS |
-```
-
 <link rel="stylesheet" href="/aset/styles.css">
 
 <script src="/js/myScript.js"></script>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for IDSID..">
 
 <table id="myTable">
   <tr class="header">
