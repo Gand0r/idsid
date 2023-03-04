@@ -1,6 +1,11 @@
-<link rel="stylesheet" href="/aset/styles.css">
+
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for IDSID..">
+
 <table id="myTable">
   <thead>
     <tr style="height:21px;">
