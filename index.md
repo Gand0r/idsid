@@ -1,9 +1,6 @@
 <link rel="stylesheet" href="/aset/styles.css">
-<head>
-  <script>
-  {% include /aset/scriptku.js %}
-  </script>
-</head>
+{% include scriptku.html %}
+
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for IDSID..">
 <table id="myTable">
   <tr class="header">
