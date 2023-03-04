@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="/aset/styles.css">
-{% include aset/scriptku.html %}
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for IDSID..">
 <table id="myTable">
