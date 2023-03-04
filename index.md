@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="/aset/styles.css">
 
-<script src="/aset/scriptku.js"> </script>
+<script src="/aset/scriptku.js"></script>
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for IDSID..">
 
