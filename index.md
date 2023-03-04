@@ -25,6 +25,7 @@
 </table>
 
 
+```
 <script>
 function myFunction() {
   // Declare variables
@@ -48,3 +49,4 @@ function myFunction() {
   }
 }
 </script>
+```
