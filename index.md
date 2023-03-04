@@ -1,6 +1,9 @@
 <link rel="stylesheet" href="/aset/styles.css">
-<script src="{{ site.baseurl }}{% aset/scriptku.js %}" </script>
-
+<head>
+  <script>
+  {% include /aset/scriptku.js %}
+  </script>
+</head>
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for IDSID..">
 <table id="myTable">
   <tr class="header">
