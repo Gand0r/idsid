@@ -1,2 +1,4 @@
 theme: jekyll-theme-architect
 title: IDSID
+
+{% include aset/scriptku.html %}
