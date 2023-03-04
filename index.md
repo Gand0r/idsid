@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="/aset/styles.css">
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for IDSID..">
-<google-sheets-html-origin><table id="myTable" xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0" dir="ltr" border="1" style="table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none">
+<table id="myTable">
   <thead>
     <tr style="height:21px;">
       <th>KDTK</th>
@@ -1532,7 +1532,7 @@
       <td style="overflow: hidden; padding: 0px 3px; vertical-align: bottom; font-family: Calibri; font-size: 11pt;"></td>
     </tr>
   </tbody>
-</table></google-sheets-html-origin>
+</table>
 
 <script>
 function myFunction() {
