@@ -1,5 +1,5 @@
 defaults:
-theme: jekyll-theme-architect
+
   -
     scope:
       path: ""
